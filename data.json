@@ -1,0 +1,362 @@
+[
+  {
+    "question": "Trinkst du süß__ Saft oder sauer__?",
+    "hint": "Ты пьешь сладкий сок или кислый? (süß – сладкий, sauer – кислый)",
+    "answer": ["en", "en"],
+    "type": "writing"
+  },
+  {
+    "question": "Sie sieht diesen Film mit groß__ Vergnügen.",
+    "hint": "Она смотрит этот фильм с большим удовольствием. (das Vergnügen – удовольствие)",
+    "answer": ["em"],
+    "type": "writing"
+  },
+  {
+    "question": "Wir trinken jeden Abend rot__ Wein.",
+    "hint": "Мы пьем каждый вечер красное вино. (der Wein – вино)",
+    "answer": ["en"],
+    "type": "writing"
+  },
+  {
+    "question": "Vergiss nicht frisch__ Obst zu kaufen!",
+    "hint": "Не забудь купить свежие фрукты! (das Obst – фрукты)",
+    "answer": ["es"],
+    "type": "writing"
+  },
+  {
+    "question": "Schmeckt dir heiß__ oder kalt__ Suppe?",
+    "hint": "Тебе нравится горячий суп или холодный? (schmecken – нравится, проходится по вкусу)",
+    "answer": ["e", "e"],
+    "type": "writing"
+  },
+  {
+    "question": "In diesem Land habe ich viele schön__ Gebäude gesehen.",
+    "hint": "В этой стране я видела много красивых зданий. (das Gebäude – здание)",
+    "answer": ["e"],
+    "type": "writing"
+  },
+  {
+    "question": "Er sieht auf sie mit groß__ Liebe.",
+    "hint": "Он смотрит на нее с большой любовью. (die Liebe – любовь)",
+    "answer": ["er"],
+    "type": "writing"
+  },
+  {
+    "question": "Zwei neu__ Zeitungen liegen auf dem Regal.",
+    "hint": "Две новые газеты лежат на полке. (das Regal – полка)",
+    "answer": ["e"],
+    "type": "writing"
+  },
+  {
+    "question": "Diese Ohrringe sind aus rein__ Gold.",
+    "hint": "Эти серьги из чистого золота. (die Ohrringe – сережки)",
+    "answer": ["em"],
+    "type": "writing"
+  },
+  {
+    "question": "Was schmeckt dir besser, warm__ oder kalt__ Bier?",
+    "hint": "Что больше тебе приходится тебе по вкусу, теплое или холодное пиво? (das Bier – пиво)",
+    "answer": ["es", "es"],
+    "type": "writing"
+  },
+  {
+    "question": "Im Lebensmittelgeschäft kauft sie frisch__ Brot und klein__ Brötchen.",
+    "hint": "В продуктовом магазине она покупает свежий хлеб и маленькие булочки. (das Brot – хлеб, die Brötchen – булочки)",
+    "answer": ["es", "e"],
+    "type": "writing"
+  },
+  {
+    "question": "Der Arzt empfiehlt dem Kranken rot__ Kaviar.",
+    "hint": "Врач рекомендует больному красную икру. (der Kaviar – икра)",
+    "answer": ["en"],
+    "type": "writing"
+  },
+  {
+    "question": "Sie bestellen im Cafe schwarz__ Tee und süß__ Gebäck.",
+    "hint": "Они заказывают в кафе черный чай и сладкую выпечку. (das Gebäck – выпечка)",
+    "answer": ["en", "es"],
+    "type": "writing"
+  },
+  {
+    "question": "Wir haben zum Frühstück frisch__ Gemüse gegessen.",
+    "hint": "Мы на завтрак скушали свежие овощи. (zum Frühstück – на завтрак)",
+    "answer": ["es"],
+    "type": "writing"
+  },
+  {
+    "question": "Er kauft für sie nur teuer__ Geschenke.",
+    "hint": "Он покупает для нее только дорогие подарки. (teuer – дорогой)",
+    "answer": ["e"],
+    "type": "writing"
+  },
+  {
+    "question": "Hast du etwas warm__ Milch?",
+    "hint": "У тебя есть немного теплого молока? (die Milch – молоко)",
+    "answer": ["e"],
+    "type": "writing"
+  },
+  {
+    "question": "Macht ihr noch grammatisch__ Fehler?",
+    "hint": "Вы еще делаете грамматические ошибки? (die Fehler – ошибки)",
+    "answer": ["e"],
+    "type": "writing"
+  },
+  {
+    "question": "Kinder hören dem Lehrer mit groß__ Aufmerksamkeit zu.",
+    "hint": "Дети слушают учителя с большой внимательностью. (die Aufmerksamkeit – внимательность)",
+    "answer": ["er"],
+    "type": "writing"
+  },
+  {
+    "question": "Ich mag grün__ Tee.",
+    "hint": "Я люблю зеленый чай. (der Tee – чай)",
+    "answer": ["en"],
+    "type": "writing"
+  },
+  {
+    "question": "Er isst im Freien gegrillt__ Hähnchen.",
+    "hint": "Он ест на свежем воздухе пожаренную на гриле курочку. (das Hähnchen – курочка, im Freien – на свежем воздухе)",
+    "answer": ["es"],
+    "type": "writing"
+  },
+  {
+    "question": "Im Winter benutzt sie gefrostet__ Erdbeeren für Kompott.",
+    "hint": "Зимой она использует замороженную клубнику для компота. (das Kompott – компот, die Erdbeeren – клубника)",
+    "answer": ["e"],
+    "type": "writing"
+  },
+  {
+    "question": "Unsere Kinder essen gern reif__ Kirschen.",
+    "hint": "Наши дети с удовольствием едят спелые вишни. (die Kirschen – вишни)",
+    "answer": ["e"],
+    "type": "writing"
+  },
+  {
+    "question": "Geben Sie mir bitte ein Glas hell__ Bier!",
+    "hint": "Дайте мне, пожалуйста, стакан светлого пива! (das Bier – пиво)",
+    "answer": ["es"],
+    "type": "writing"
+  },
+  {
+    "question": "Wir essen diese Speise mit groß__ Appetit.",
+    "hint": "Мы кушаем это блюдо с большим аппетитом. (der Appetit – аппетит)",
+    "answer": ["em"],
+    "type": "writing"
+  },
+  {
+    "question": "Gib mir eine Tasse heiß__ Tee!",
+    "hint": "Дай мне чашку горячего чая! (die Tasse – чашка)",
+    "answer": ["en"],
+    "type": "writing"
+  },
+  {
+    "question": "Sie machen einen Salat mit mariniert__ Gurken.",
+    "hint": "Они делают салат с маринованными огурцами. (die Gurke – огурец)",
+    "answer": ["en"],
+    "type": "writing"
+  },
+  {
+    "question": "Isst du schwarz__ oder weiß__ Brot?",
+    "hint": "Ты кушаешь черный или белый хлеб?",
+    "answer": ["es", "es"],
+    "type": "writing"
+  },
+  {
+    "question": "Viele deutsch__ Zeitungen verkauft man auf den Straßen der Stadt.",
+    "hint": "Много немецких газет продают на улицах города. (die Zeitung – газета)",
+    "answer": ["e"],
+    "type": "writing"
+  },
+  {
+    "question": "Sie korrigiert die Fehler mit rot__ Stift.",
+    "hint": "Она исправляет ошибки красным карандашом. (der Stift – карандаш)",
+    "answer": ["em"],
+    "type": "writing"
+  },
+  {
+    "question": "Neu__ Bilder kann man in der Gemäldegalerie anschauen.",
+    "hint": "Новые картины можно увидеть в картинной галерее. (die Gemäldegalerie – картинная галерея)",
+    "answer": ["e"],
+    "type": "writing"
+  },
+  {
+    "question": "In dies__ interessant__ Buch ist die Rede von ein__ hervorragend__ Persönlichkeit der 19. Jahrhundert.",
+    "hint": "В этой интересной книге речь идет о выдающемся человеке 19 столетия.",
+    "answer": ["em", "en", "er", "en"],
+    "type": "writing"
+  },
+  {
+    "question": "Im Zentrum d__ blühend__ Gartens wachst ein__ alt__ Baum.",
+    "hint": "В центре цветущего сада растет старое дерево.",
+    "answer": ["es", "en", "", "er"],
+    "type": "writing"
+  },
+  {
+    "question": "Romantisch__ Erzählungen dies__ deutsch__ Schriftstellers gefallen mir sehr.",
+    "hint": "Романтические истории этого немецкого писателя очень нравятся мне.",
+    "answer": ["e", "es", "en"],
+    "type": "writing"
+  },
+  {
+    "question": "In d__ schön__ Stadt Sankt-Petersburg leben und arbeiten viel__ interessant__ Menschen.",
+    "hint": "В прекрасном городе Санкт-Петербурге живут и работают интересные люди. Это современное здание – наша школа.",
+    "answer": ["er", "en", "e", "e"],
+    "type": "writing"
+  },
+  {
+    "question": "Dies__ modern__ Gebäude ist unser__ Schule.",
+    "hint": "Это современное здание – наша школа.",
+    "answer": ["es", "", "e"],
+    "type": "writing"
+  },
+  {
+    "question": "Mein__ lieb__ Mutti ist sehr schön__ Frau.",
+    "hint": "Моя любимая мамочка – очень красивая женщина.",
+    "answer": ["e", "e", "e"],
+    "type": "writing"
+  },
+  {
+    "question": "Dies__ nett__ Mädchen wohnt in d__ erst__ Stock jen__ alt__ Haus.",
+    "hint": "Эта милая девочка живет на втором этаже того старого дома.",
+    "answer": ["es", "e", "em", "en", "es", "e"],
+    "type": "writing"
+  },
+  {
+    "question": "Klein__ Kinder sind sehr gutherzig__ und freundlich__.",
+    "hint": "Маленькие дети очень доброжелательны и дружелюбны.",
+    "answer": ["e", "", ""],
+    "type": "writing"
+  },
+  {
+    "question": "Auf d__ groß__ Wiesen wachsen verschieden__ bunt__ Blumen",
+    "hint": "На большом лугу растут различные пестрые цветы.",
+    "answer": ["er", "en", "e", "e"],
+    "type": "writing"
+  },
+  {
+    "question": "Zum erst__ September kaufen die Eltern ihren Kinder neu__ Hefte, Bleistifte, nützlich__ Bücher.",
+    "hint": "К первому сентября родители покупают своим детям новые тетради, карандаши, полезные книги.",
+    "answer": ["en", "e", "e"],
+    "type": "writing"
+  },
+  {
+    "question": "D__ groß__, rot__ Auto stand neben der Haltestelle.",
+    "hint": "Большой, красный автомобиль был припаркован рядом с остановкой.",
+    "answer": ["as", "e", "e"],
+    "type": "writing"
+  },
+  {
+    "question": "D__ klein__ Junge ging in d__ modern__ Schule.",
+    "hint": "Маленький мальчик ходит в современную школу.",
+    "answer": ["er", "e", "er", "en"],
+    "type": "writing"
+  },
+  {
+    "question": "Es ist schwer ein__ gut__ Arbeit zu finden.",
+    "hint": "Очень трудно найти хорошую работу.",
+    "answer": ["e", ""],
+    "type": "writing"
+  },
+  {
+    "question": "Fleißig__ Schüler bekommen gut__ Noten bei ihren Kenntnissen.",
+    "hint": "Прилежные ученики получают хорошие оценки за свои знания.",
+    "answer": ["e", "e"],
+    "type": "writing"
+  },
+  {
+    "question": "D__ hoch__ Mann stieg aus d__ groß__ Bus aus.",
+    "hint": "Высокий мужчина вышел из большого автобуса.",
+    "answer": ["er", "e", "em", "en"],
+    "type": "writing"
+  },
+  {
+    "question": "Dies__ schön__ Frau ist mein__ gut__ Freundin.",
+    "hint": "Эта красивая женщина – моя хорошая подруга.",
+    "answer": ["e", "e", "e", "e"],
+    "type": "writing"
+  },
+  {
+    "question": "Dies__ sparsam__ Frau kauft billig__ Produkte in groß__ Supermarkt.",
+    "hint": "Эта экономная женщина покупает дешевые продукты в большом супермаркете.",
+    "answer": ["e", "e", "e", "em"],
+    "type": "writing"
+  },
+  {
+    "question": "Neben d__ alt__ Park wohnt ein__ groß__ Hund.",
+    "hint": "Рядом со старым парком живет большая собака.",
+    "answer": ["em", "en", "", "er"],
+    "type": "writing"
+  },
+  {
+    "question": "Mein__ alt__ Freund ist d__ bekannt__ Sportler.",
+    "hint": "Мой старый друг – известный спортсмен.",
+    "answer": ["", "er", "", "e"],
+    "type": "writing"
+  },
+  {
+    "question": "Heute ist d__ schlecht__ Wetter: stark__ Wind und kalt__ Regnen.",
+    "hint": "Сегодня плохая погода: сильный ветер и холодный дождь.",
+    "answer": ["as", "e", "er", "er"],
+    "type": "writing"
+  },
+  {
+    "question": "Das Dreirad gehört d__ klein__ Kind",
+    "hint": "Трехколесный велосипед принадлежит маленькому ребенку.",
+    "answer": ["em", "en"],
+    "type": "writing"
+  },
+  {
+    "question": "Wohin soll ich d__ neu__ Vase stellen?",
+    "hint": "Куда мне поставить новую вазу?",
+    "answer": ["ie", "e"],
+    "type": "writing"
+  },
+  {
+    "question": "Rolf sitzt auf d__ wackelig__ Stuhl.",
+    "hint": "Рольф сидит на шатком стуле.",
+    "answer": ["em", "en"],
+    "type": "writing"
+  },
+  {
+    "question": "Sie ist das Kind reich__ Eltern.",
+    "hint": "Она — ребенок богатых родителей.",
+    "answer": ["er"],
+    "type": "writing"
+  },
+  {
+    "question": "Aus ein__ offen__ Tür schaute ein Mann heraus.",
+    "hint": "Из открытой двери выглянул мужчина.",
+    "answer": ["er", "en"],
+    "type": "writing"
+  },
+  {
+    "question": "Mein Freund repariert defekt__ Waschmaschinen.",
+    "hint": "Мой друг чинит сломанные стиральные машины.",
+    "answer": ["e"],
+    "type": "writing"
+  },
+  {
+    "question": "Wir haben ein__ spannend__ Film gesehen.",
+    "hint": "Мы посмотрели интересный фильм.",
+    "answer": ["en", "en"],
+    "type": "writing"
+  },
+  {
+    "question": "Hast du die Telefonnummer ein__ zuverlässig__ Babysitters?",
+    "hint": "У тебя есть телефон няни, на которую можно положиться?",
+    "answer": ["es", "en"],
+    "type": "writing"
+  },
+  {
+    "question": "Mein Onkel hat ein__ rot__ Auto.",
+    "hint": "У моего дяди красная машина.",
+    "answer": ["", "es"],
+    "type": "writing"
+  },
+  {
+    "question": "Wer ist der Besitzer d__ zottelig__ Hundes?",
+    "hint": "Кто хозяин лохматой собаки?",
+    "answer": ["es", "en"],
+    "type": "writing"
+  }
+]
