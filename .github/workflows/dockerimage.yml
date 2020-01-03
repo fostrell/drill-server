@@ -23,6 +23,7 @@ jobs:
         with:
           host: ${{ secrets.REMOTE_HOST }}
           key: ${{ secrets.REMOTE_KEY }}
+          username: andrey
           port: ${{ secrets.REMOTE_PORT }}
           script: whoami
         #run: docker tag  aleksel/language-helper-server:${TAG} aleksel/language-helper-server
