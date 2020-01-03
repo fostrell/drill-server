@@ -18,4 +18,11 @@ jobs:
         run: docker build . --file Dockerfile --build-arg app_name=grammer-server --tag aleksel/grammer-server:1.1.0
       - name: Push Docker image with tag
         run: docker push aleksel/grammer-server:1.1.0
+      - name: executing remote ssh commands using password
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.REMOTE_HOST }}
+          key: ${{ secrets.REMOTE_KEY }}
+          port: ${{ secrets.REMOTE_PORT }}
+          script: whoami
         #run: docker tag  aleksel/language-helper-server:${TAG} aleksel/language-helper-server
