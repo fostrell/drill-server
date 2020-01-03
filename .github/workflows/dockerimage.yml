@@ -10,16 +10,20 @@ jobs:
 
     steps:
       - uses: actions/checkout@v1
+      - name: Set tag
+        run: TAG="0.1.2"
       - name: Build go
         run: CGO_ENABLED=0 GOOS=linux go build -installsuffix cgo -v
       - name: Docker login
         run: docker login -u ${{ secrets.DOCKER_USERNAME }} -p ${{ secrets.DOCKER_PASSWORD }}
       - name: Build the Docker image
-        run: docker build . --file Dockerfile --build-arg app_name=grammer-server --tag aleksel/grammer-server:1.1.0
+        run: docker build . --file Dockerfile --build-arg app_name=grammer-server --tag aleksel/grammer-server:${TAG}
+      - name: Docker tag
+        run: docker tag aleksel/grammer-server:${TAG} aleksel/grammer-server
       - name: Push Docker image with tag latest
         run: docker push aleksel/grammer-server
       - name: Push Docker image with tag
-        run: docker push aleksel/grammer-server:1.1.0
+        run: docker push aleksel/grammer-server:${TAG}
       - name: executing remote ssh commands using password
         uses: appleboy/ssh-action@master
         with:
