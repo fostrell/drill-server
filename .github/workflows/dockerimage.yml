@@ -10,14 +10,12 @@ jobs:
 
     steps:
       - uses: actions/checkout@v1
+      - name: Docker login
+        run: docker login -u ${{ secrets.DOCKER_USERNAME }} -p ${{ secrets.DOCKER_USERNAME }}
       - name: Build the Docker image
-        run: docker build . --file Dockerfile --tag grammer-server:$(date +%s)
-      - name: Publish Docker
-        uses: elgohr/Publish-Docker-Github-Action@master
-        with:
-          # The name of the image you would like to push
-          name: grammer-server
-          username: ${{ secrets.DOCKER_USERNAME }}
-          password: ${{ secrets.DOCKER_PASSWORD }}
-          # Use registry for pushing to a custom registry
-          registry: aleksel/grammer-server
+        run: docker build . --file Dockerfile --tag grammer-server:1.1.0
+      - name: Push Docker image
+        run: docker push aleksel/grammer-server
+      - name: Push Docker image with tag
+        run: docker push aleksel/grammer-server:1.1.0
+        #run: docker tag  aleksel/language-helper-server:${TAG} aleksel/language-helper-server
